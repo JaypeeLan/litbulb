@@ -32,11 +32,11 @@ a {
 }
 
 .home {
-  padding: 100px 90px 124px 90px;
+  padding: 50px 90px 50px 90px;
 }
 
 .home__border {
-  border: 1px solid #ffffff;
+  height: 1px;
   background-color: #ffffff;
 }
 
