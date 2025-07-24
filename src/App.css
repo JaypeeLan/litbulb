@@ -176,6 +176,7 @@ p {
   }
 
   .home-top__right {
+    margin-top: 30px;
     text-align: left;
   }
 
@@ -233,7 +234,7 @@ p {
     line-height: 28px;
     color: var(--primary-color);
     display: block;
-    margin-top: 73px;
+    margin-top: 30px;
   }
 
   .home__border-bottom {
