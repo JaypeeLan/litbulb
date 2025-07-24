@@ -242,7 +242,7 @@ p {
 }
 
 /* Extra small mobile styles - 400px and below */
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
   .home {
     padding: 40px 20px 50px 20px;
   }
@@ -298,4 +298,4 @@ p {
     line-height: 24px;
     margin-top: 50px;
   }
-}
+} */
